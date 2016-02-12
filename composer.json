@@ -1,0 +1,21 @@
+{
+    "name": "arifmahmudrana/laravel-resource-route-wildcard-alias",
+    "description": "Laravel resource route wildcard alias to use same model name in route model binding with alias",
+    "keywords": ["laravel", "resource", "route", "alias", "model", "binding"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Arif Mahmud Rana",
+            "email": "arif_mahmud_rana@hotmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "5.0.x|5.1.x|5.2.x"
+    },
+    "autoload": {
+        "psr-4": {
+            "AriMahmudRana\\laravelResourceRouteWildcardAlias\\": "src"
+        }
+    }
+}
